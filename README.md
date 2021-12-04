@@ -1,5 +1,5 @@
 # New York City Taxi - Yellow Taxis Trip
- Maitha Alqahtani & [Arwa Alolyani](https://github.com/ArwaEssa/GUI-tcl)
+ [Maitha Alqahtani](https://github.com/Maithaq) & [Arwa Alolyani](https://github.com/ArwaEssa/GUI-tcl)
  # Abstract
  New York City has a huge population that moves from place to place, which means taxi rides are a major part of the traffic. Almost half of the people of New York rely on public transportation, and it is estimated that 54 percent don't own a car or personal vehicle. As a matter of fact, 200 million taxi trips are made annually. The amount of taxi we will need to pay will only be known after we arrive at our destination, and our awkwardness makes us curious about how we can predict this amount, and an accurate estimation will help us control our budget.
  # Design
