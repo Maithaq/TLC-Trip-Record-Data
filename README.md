@@ -49,4 +49,8 @@
  - GeoPandas  to work with geospatial data
  - Folium for visualizing geospatial data
 
- 
+  # Blog
+  [Taxi Fares in New York City: A Prediction](https://medium.com/@maithaq/taxi-fares-in-new-york-city-a-prediction-blog-5ecfb70521ec)
+  
+   # Deployment
+  [Fare Amount Prediction in NYC Trips!](https://share.streamlit.io/arwaessa/tcl-nyc-gui/main/fare_amount.py)
